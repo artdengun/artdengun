@@ -47,7 +47,6 @@
   <code> <img height="60" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"> </code>
   <code> <img height="60" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg"> </code>
   <code> <img height="60" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"> </code>
-  <code> <img height="60" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg"> </code>
   <code> <img height="60" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"> </code>
   <code> <img height="60" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"> </code>
   <code> <img height="60" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-official.svg"> </code>
