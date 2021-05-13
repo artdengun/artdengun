@@ -41,11 +41,11 @@
   <code> <img height="60" src="https://www.vectorlogo.zone/logos/php/php-icon.svg"> </code>
   <code> <img height="60" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"> </code>
   <code> <img height="60" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"> </code>
-  <code> <img height="60" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"> </code>
-  <code> <img height="60" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"> </code>
-  <code> <img height="60" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"> </code>
-  <code> <img height="60" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"> </code>
-  <code> <img height="60" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"> </code>
+  <code> <img height="60" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"> </code>
+  <code> <img height="60" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"> </code>
+  <code> <img height="60" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg"> </code>
+  <code> <img height="60" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"> </code>
+  <code> <img height="60" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"> </code>
   <code> <img height="60" src=""> </code>
   <code> <img height="60" src=""> </code>
   <code> <img height="60" src=""> </code>
