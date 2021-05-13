@@ -38,6 +38,7 @@
 <p align="left">
   
   <code> <img height="60" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"> </code>
+    <code> <img height="60" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"> </code>
   <code> <img height="60" src="https://www.vectorlogo.zone/logos/php/php-icon.svg"> </code>
   <code> <img height="60" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"> </code>
   <code> <img height="60" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"> </code>
@@ -49,8 +50,11 @@
   <code> <img height="60" src=""> </code>
   <code> <img height="60" src=""> </code>
   <code> <img height="60" src=""> </code>
-  <code> <img height="60" src=""> </code>
-  <code> <img height="60" src=""> </code>
+
+  <code> <img height="60" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"> </code>
+  <code> <img height="60" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"> </code>
+  <code> <img height="60" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-official.svg"> </code>
+  <code> <img height="60" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"> </code>
 
 
   <hr>
