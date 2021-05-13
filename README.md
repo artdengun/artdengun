@@ -2,7 +2,6 @@
 <h3 align="center"> Software Engginer | Learner </h3>
 
 
-<p align="center">
  
 <a href="https://www.linkedin.com/in/ovinduwijethunge/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_deni" height="30" width="40" /> </a>  
 
@@ -11,8 +10,7 @@
 <a href="https://www.facebook.com/denigunawan775/" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="Deni Gunawan" height="30" width="40" /> </a>
 
  <a href = "mailto: denigunawan775@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
- 
-</p>
+
 
 
 
