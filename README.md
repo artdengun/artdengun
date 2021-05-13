@@ -25,8 +25,8 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About Me ....***
 
 ✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
-✔ I’m currently Developing a youtube Content Video for education
-✔ I’m currently Writing  a Content About Web used Java and PHP
+✔ I’m currently Developing a youtube Content Video for education <br>
+✔ I’m currently Writing  a Content About Web used Java and PHP<br>
 ✔ I’m currently learning about **Web Development**🥰<br>
 ✔ I’m looking to collaborate with any **Open - Source web projects**<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
