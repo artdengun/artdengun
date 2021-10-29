@@ -4,8 +4,6 @@
 
 <p align="center"> 
 <a href="https://www.linkedin.com/in/deni-gunawan-93b5b412a/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_deni" height="30" width="40" /> </a>  
-<a href="https://www.instagram.com/dengunnnnn/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="Ins_deni" height="30" width="40" /> </a>
-<a href="https://www.facebook.com/dengunn/" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="Deni Gunawan" height="30" width="40" /> </a>
  <a href = "mailto: denigunawan775@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a></p>
 
 
