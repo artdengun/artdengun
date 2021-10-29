@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Deni Gunawan </h1>
-<h3 align="center">  Java Developer</h3>
+<h3 align="center">  API & Microservice Developer</h3>
 
 
 <p align="center"> 
@@ -17,7 +17,6 @@
 <br><br><br><br><br>
 
 <hr>
-
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=artdengun&theme=juicyfresh&no-bg=true" />
